@@ -30,49 +30,8 @@
     flex-wrap: wrap;
 }
 
-#landing_all {
+.landing_janre {
     color: black;
-    width: 150px;
-    height: 150px;
-    background-color: #f5d682;
-    border: 1px solid red;
-    margin: 1px 2px 3px 4px
-}
-
-#landing_hiphop {
-    color: black;
-    width: 150px;
-    height: 150px;
-    background-color: #f5d682;
-    border: 1px solid red;
-    margin: 1px 2px 3px 4px
-}
-
-#landing_locking {
-    width: 150px;
-    height: 150px;
-    background-color: #f5d682;
-    border: 1px solid red;
-    margin: 1px 2px 3px 4px
-}
-
-#landing_b_boing {
-    width: 150px;
-    height: 150px;
-    background-color: #f5d682;
-    border: 1px solid red;
-    margin: 1px 2px 3px 4px
-}
-
-#landing_house {
-    width: 150px;
-    height: 150px;
-    background-color: #f5d682;
-    border: 1px solid red;
-    margin: 1px 2px 3px 4px
-}
-
-#landing_freestyle {
     width: 150px;
     height: 150px;
     background-color: #f5d682;
@@ -84,27 +43,7 @@
     font-size: 100px;
 }
 
-#hiphop {
-    background-color: rgb(192, 192, 192);
-    color: blue;
-}
-
-#locking {
-    background-color: rgb(192, 192, 192);
-    color: blue;
-}
-
-#b_boing {
-    background-color: rgb(192, 192, 192);
-    color: blue;
-}
-
-#house {
-    background-color: rgb(192, 192, 192);
-    color: blue;
-}
-
-#freestyle {
+.search_janre {
     background-color: rgb(192, 192, 192);
     color: blue;
 }
